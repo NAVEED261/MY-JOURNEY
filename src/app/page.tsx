@@ -33,7 +33,7 @@ export default function Home() {
     HAFIZ NAVEED UDDIN
   </h1>
   <p className="text-lg-italic text-gray-700 dark:text-gray-300 max-w-2xl text-center leading-relaxed hover:text-white transition duration-300 ease-in-out font-italic">
-    "My name is Hafiz Naveed Uddin. I am a highly dedicated and hardworking individual with a deep passion for my work. My journey began with the memorization of the Quran, instilling in me discipline and focus. I am also proficient in shorthand as a stenographer and fluent in Urdu, English, and shorthand. Expanding my horizons, I am currently pursuing courses in Cloud, Artificial Intelligence, and Compute Engineering through PIAIC and the esteemed Governor House Karachi. With a strong foundation in Generative AI and Cybersecurity, I am committed to advancing in these cutting-edge fields."
+    My name is Hafiz Naveed Uddin. I am a highly dedicated and hardworking individual with a deep passion for my work. My journey began with the memorization of the Quran, instilling in me discipline and focus. I am also proficient in shorthand as a stenographer and fluent in Urdu, English, and shorthand. Expanding my horizons, I am currently pursuing courses in Cloud, Artificial Intelligence, and Compute Engineering through PIAIC and the esteemed Governor House Karachi. With a strong foundation in Generative AI and Cybersecurity, I am committed to advancing in these cutting-edge fields.
   </p>
 </div>
 

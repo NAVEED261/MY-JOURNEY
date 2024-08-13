@@ -4,7 +4,7 @@ import Modal from 'react-modal';
 
 export default function Footer() {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [selectedImage, setSelectedImage] = useState(null);
+  const [selectedImage, setSelectedImage] = useState<string | null>(null);
 
   const certificates = [
     {
@@ -61,7 +61,7 @@ export default function Footer() {
     },
   ];
 
-  const openModal = (image) => {
+  const openModal = (image: string) => {
     setSelectedImage(image);
     setIsModalOpen(true);
   };
